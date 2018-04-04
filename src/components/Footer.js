@@ -2,7 +2,6 @@ import React from 'react';
 import youtubeIcon from '../assets/images/you.png';
 import facebookIcon from '../assets/images/fb.png';
 import twitterIcon from '../assets/images/twitter.png';
-// import { Navbar, Nav, NavItem, Glyphicon } from 'react-bootstrap';
 
 const Footer = (props) => {
 

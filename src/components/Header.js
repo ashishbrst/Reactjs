@@ -1,8 +1,4 @@
- 
 import React from 'react';
-// import { Link } from 'react-router-dom';
-// import { Navbar, Nav, NavItem, Glyphicon } from 'react-bootstrap';
- 
 
 const Header = (props) => {
     return (
